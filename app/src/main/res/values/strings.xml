@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">People Data Fetching Demo</string>
+    <string name="users_data">Users Data</string>
+    <string name="search">Search</string>
+    <string name="author">Author</string>
+    <string name="_01_january_1990">01 January 1990</string>
+    <string name="title">Title</string>
+    <string name="desc">Desc</string>
+    <string name="error_title">Error Title</string>
+    <string name="error_message">Error Message</string>
+    <string name="retry">Retry</string>
+</resources>
